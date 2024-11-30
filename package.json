@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev NODE_ENV=dev",
+    "beta": "astro dev NODE_ENV=beta",
     "main": "astro dev NODE_ENV=main",
     "start": "astro dev",
     "build": "astro check && astro build",
